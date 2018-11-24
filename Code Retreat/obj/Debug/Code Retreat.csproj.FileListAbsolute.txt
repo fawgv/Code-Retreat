@@ -1,0 +1,17 @@
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\obj\Debug\Code Retreat.csprojResolveAssemblyReference.cache
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\obj\Debug\Code Retreat.csproj.CoreCompileInputs.cache
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\bin\Debug\Code Retreat.exe.config
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\bin\Debug\Code Retreat.exe
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\bin\Debug\Code Retreat.pdb
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\bin\Debug\nunit.framework.dll
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\bin\Debug\nunit.framework.pdb
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\bin\Debug\nunit.framework.xml
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\obj\Debug\Code Retreat.csproj.CopyComplete
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\obj\Debug\Code Retreat.exe
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\obj\Debug\Code Retreat.pdb
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\bin\Debug\FluentAssertions.Core.dll
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\bin\Debug\FluentAssertions.dll
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\bin\Debug\FluentAssertions.pdb
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\bin\Debug\FluentAssertions.xml
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\bin\Debug\FluentAssertions.Core.pdb
+E:\Обучение\Программирование\C#\Кампус\Code Retreat\Code Retreat\Code Retreat\bin\Debug\FluentAssertions.Core.xml
